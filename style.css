@@ -109,11 +109,12 @@ button:hover {
     flex-direction: row;
     align-items: center;
     position: absolute;
-    top: 110%;
+    top: 130%;
     right: 30%;
     margin: 10px;
     justify-content: space-between;
     border: none;
+    z-index: 4;
 }
 
 .skills-img a:hover{
